@@ -1,0 +1,1422 @@
+{
+    "config": {
+        "csrf_token": "LTVxHZeRvGLpGdCD6lHaYII9rfIURYWH",
+        "viewer": null,
+        "viewerId": null
+    },
+    "country_code": "UA",
+    "language_code": "en",
+    "locale": "en_US",
+    "entry_data": {
+        "ProfilePage": [
+            {
+                "logging_page_id": "profilePage_7664618792",
+                "show_suggested_profiles": false,
+                "show_follow_dialog": false,
+                "graphql": {
+                    "user": {
+                        "biography": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u043e\u0432 \u0432 \u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u0435 \u0438 \u041a\u0440\u044b\u043c\u0443. \u041d\u0430\u0448\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0443\u0441\u043b\u0443\u0433\u0438: \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u043e\u0432,\u0440\u0435\u043a\u043b\u0430\u043c\u0430 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435,\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 +7 (978) 260-17-00",
+                        "blocked_by_viewer": false,
+                        "country_block": false,
+                        "external_url": "http://art-web.ru/",
+                        "external_url_linkshimmed": "https://l.instagram.com/?u=http%3A%2F%2Fart-web.ru%2F&e=ATNU8QwRMSt6_N2yesh6KCx34S4flW-icoq8DDrt2DlWjEEv9d50gXEK1dwUEAfyoDEklxTh",
+                        "edge_followed_by": {
+                            "count": 65
+                        },
+                        "followed_by_viewer": false,
+                        "edge_follow": {
+                            "count": 104
+                        },
+                        "follows_viewer": false,
+                        "full_name": "Art_Web",
+                        "has_channel": false,
+                        "has_blocked_viewer": false,
+                        "highlight_reel_count": 0,
+                        "has_requested_viewer": false,
+                        "id": "7664618792",
+                        "is_business_account": true,
+                        "is_joined_recently": false,
+                        "business_category_name": "Personal Goods & General Merchandise Stores",
+                        "is_private": false,
+                        "is_verified": false,
+                        "edge_mutual_followed_by": {
+                            "count": 0,
+                            "edges": []
+                        },
+                        "profile_pic_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/31028430_199491464110636_6705064052139229184_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_ohc=GkB1ugFRWccAX-YvOjW&oh=a3e55e7b1891bd778115ac3bf90dcbcc&oe=5EB16A42",
+                        "profile_pic_url_hd": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/31028430_199491464110636_6705064052139229184_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_ohc=GkB1ugFRWccAX-YvOjW&oh=a3e55e7b1891bd778115ac3bf90dcbcc&oe=5EB16A42",
+                        "requested_by_viewer": false,
+                        "username": "studia_art_web",
+                        "connected_fb_page": null,
+                        "edge_felix_video_timeline": {
+                            "count": 0,
+                            "page_info": {
+                                "has_next_page": false,
+                                "end_cursor": null
+                            },
+                            "edges": []
+                        },
+                        "edge_owner_to_timeline_media": {
+                            "count": 22,
+                            "page_info": {
+                                "has_next_page": true,
+                                "end_cursor": "QVFDZHdtLS13Rlh0YVFZRlgycnBlNzR4VmtsVmJmV3BOY2JRNWtjeUEyNGZ0Wk41TDIxeENKcVVzTmVRV3I5Zkp4VUVIVVZreDlPMzNsMHJ6VHpJMjNMUg=="
+                            },
+                            "edges": [
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "2017342639256162359",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\u0421\u0442\u0443\u0434\u0438\u044f \u0434\u0438\u0437\u0430\u0439\u043d\u0430 \u00abArt-web\u00bb \u0432 \u043b\u0438\u0446\u0435 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u0430 \u0410\u043d\u0434\u0440\u0435\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447\u0430 \u0438 \u0432\u0441\u0435\u0433\u043e \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u0430 \u043e\u0442 \u0432\u0441\u0435\u0439 \u0434\u0443\u0448\u0438 \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u0445\u043e\u0441\u0442\u0438\u043d\u0433\u2014\u043f\u0440\u043e\u0432\u0430\u0439\u0434\u0435\u0440\u0430 #BegetRu25 \u0441 \u0434\u043d\u0435\u043c \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f! \u041b\u044e\u0431\u043e\u0439 \u0434\u0435\u043b\u043e\u0432\u043e\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100%, \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u043e\u043c, \u043d\u043e \u0438 \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0434\u0440\u0443\u0433\u043e\u043c! \u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0432\u0430\u043c, \u0447\u0442\u043e \u0432\u044b \u0441\u0442\u0430\u043b\u0438 \u0434\u043b\u044f \u043d\u0430\u0441 \u0431\u043e\u043b\u044c\u0448\u0435 \u0447\u0435\u043c \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u043e\u0432\u0430\u0439\u0434\u0435\u0440) \u0416\u0435\u043b\u0430\u0435\u043c \u0432\u0430\u043c \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043f\u043e\u0431\u0435\u0434, \u0442\u043e\u043b\u044c\u043a\u043e \u0443\u0441\u043f\u0435\u0445\u043e\u0432) \u0427\u0442\u043e\u0431 \u0432\u0430\u0448\u0438 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u044b \u0442\u043e\u0436\u0435 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u0432\u0430\u0441 \u043d\u0435 \u043e\u0433\u043e\u0440\u0447\u0430\u043b\u0438, \u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438\u0441\u044c \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u043c\u0438 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438!) \u0415\u0449\u0435 \u0440\u0430\u0437 \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u044f\u0435\u043c!"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "Bv_CnErHNA3",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1554706004,
+                                        "dimensions": {
+                                            "height": 306,
+                                            "width": 320
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/54512442_411420809658132_4188070236825027980_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=wg4yfB_AwkcAX9CO_sm&oh=9766a28fac9e734613bc38a593342a2c&oe=5EB0AA06",
+                                        "edge_liked_by": {
+                                            "count": 3
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 3
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoo6HcucZGfrTqwzGVUMRwen/6qdcTS26Fcn5Rngjp6ZIJGPTr71Tj2ZmpN7qxskhRk8D3qFrmNerD/AD/P8K5R7uRznOPfkn8zk/kRS20gViWOT+dZs1WrsbsmqoDtRSx9TwP8f0FVP7Un9E/I/wCNUGcPLkehpalsuyL3mcYPQdOn5dqinf5GJ9MD8eB/n0FIpOwyNwB+tZ8krTED8gP89feumVkckU3v0IDXXupVx8qeUV+bj5s47e3SuaWKNW2uS3H8PGPxNaD3qs3mEMCRt4Ixgc81zuR0pX9CQ48huOshI+mcDJ9eK1rcDyk6fdXt7CsOO5iQ5UE8ng4I59vSp/7VPYEfgKnm8i3HsDxhlWEHkAsfw4/Un9KppAIjkqcj1B/TsaKK6XrucSZE6bRubCsc5PJ6/TIz+FRBdwwGU49z/hRRWckrm8JOxIIcYBZRnpyef/Had9mP95f/AB7/AOJoorNqxqpNn//Z",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c7.0.306.306a/54512442_411420809658132_4188070236825027980_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=wg4yfB_AwkcAX9CO_sm&oh=f1196d965b1b92e31270887d3234b615&oe=5E7EA0A8",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c7.0.306.306a/s150x150/54512442_411420809658132_4188070236825027980_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=wg4yfB_AwkcAX9CO_sm&oh=bbd28c3a3b14c658a2a417710ab95c47&oe=5E7F0A98",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c7.0.306.306a/s240x240/54512442_411420809658132_4188070236825027980_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=wg4yfB_AwkcAX9CO_sm&oh=6f94cf2f126f903a0557affa6cd85f40&oe=5EA79BD2",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c7.0.306.306a/54512442_411420809658132_4188070236825027980_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=wg4yfB_AwkcAX9CO_sm&oh=f1196d965b1b92e31270887d3234b615&oe=5E7EA0A8",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c7.0.306.306a/54512442_411420809658132_4188070236825027980_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=wg4yfB_AwkcAX9CO_sm&oh=f1196d965b1b92e31270887d3234b615&oe=5E7EA0A8",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c7.0.306.306a/54512442_411420809658132_4188070236825027980_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=wg4yfB_AwkcAX9CO_sm&oh=f1196d965b1b92e31270887d3234b615&oe=5E7EA0A8",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "2004418380527591304",
+                                        "edge_media_to_caption": {
+                                            "edges": []
+                                        },
+                                        "shortcode": "BvRH-WwnF-I",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1553165312,
+                                        "dimensions": {
+                                            "height": 1080,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/53337798_2226082767435644_6928257256508756287_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=O0JYZOoC2MMAX_BuxBQ&oh=f58a99a3bd0ec158ce493a1bb3c84a29&oe=5E7F4F6D",
+                                        "edge_liked_by": {
+                                            "count": 7
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 7
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoq6Cq91MYYy469B9T/AIVODmq15EZYiq8nggeuKT2Kja6vtdFNrQeSZZCWfbu69Ku2f+pT6f1NUzdxvblScPt24PqOKt2hxAn0/qalWvp2NZt8vvfzfp08idqizQziovNX1qzAkHHShn2gkngc0tKUSRdjfxe+CcUh+uxlrGXieZxkvkjPb6f57VYgJ8pR7VcdUVPLI+XGMe31qruAACgBRwP8nmklYuUub79PS1hjCotlTE0maozLeaN3YjcPTv8Ah/n8aZ3paQDZ5FwOT6cfe+nrVZcnqMDsP6k1O471HTAQ02g02gD/2Q==",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/53337798_2226082767435644_6928257256508756287_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=O0JYZOoC2MMAX_BuxBQ&oh=0eb404f4fee663eaf6cd926c8bdcf4c7&oe=5E97D5D7",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/53337798_2226082767435644_6928257256508756287_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=O0JYZOoC2MMAX_BuxBQ&oh=b7a0756a837925a18ee7e8af23463766&oe=5E8F7452",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/53337798_2226082767435644_6928257256508756287_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=O0JYZOoC2MMAX_BuxBQ&oh=807c18ca4f0979a05a1bd301a46b6c83&oe=5EB20454",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/53337798_2226082767435644_6928257256508756287_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=O0JYZOoC2MMAX_BuxBQ&oh=acecd51fd94f5ac826cedeeb3327fee6&oe=5E7C132A",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/53337798_2226082767435644_6928257256508756287_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=O0JYZOoC2MMAX_BuxBQ&oh=bbc058deac227bd05df9df3d192d3eb1&oe=5E8DDC6D",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/53337798_2226082767435644_6928257256508756287_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=O0JYZOoC2MMAX_BuxBQ&oh=0eb404f4fee663eaf6cd926c8bdcf4c7&oe=5E97D5D7",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1811515519788191214",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\u0414\u043b\u044f \u0447\u0435\u0433\u043e \u043d\u0430\u0434\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0441\u0430\u0439\u0442? \ud83d\ude09\n..\n\u041b\u044e\u0431\u043e\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u0438\u0437\u043d\u0430\u0448\u0438\u0432\u0430\u0435\u0442\u0441\u044f, \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0430\u0435\u0442 \u0438 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0443\u0445\u043e\u0434\u0430. \u0422\u043e \u0436\u0435 \u0441\u0430\u043c\u043e\u0435 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u0438 \u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u044b\u043c \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430\u043c. \u0423 \u0441\u0430\u0439\u0442\u043e\u0432 \u0435\u0441\u0442\u044c \u0443\u044f\u0437\u0432\u0438\u043c\u044b\u0435 \u043c\u0435\u0441\u0442\u0430 \u0438 \u043f\u0440\u0438\u0447\u0438\u043d\u044b, \u043f\u043e \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043e\u043d\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0445\u043e\u0434\u0438\u0442\u044c \u0438\u0437 \u0441\u0442\u0440\u043e\u044f.\n...\n\u0418\u0442\u0430\u043a, \u043f\u043e\u0447\u0435\u043c\u0443 \u0436\u0435 \u043d\u0443\u0436\u043d\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0441\u0430\u0439\u0442? \u0412\u043e\u0442 6 \u043f\u0440\u0438\u0447\u0438\u043d: \n1. \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u044c \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438; \n2. \u043f\u043e\u0442\u0435\u0440\u044f \u0441\u0430\u0439\u0442\u0430 \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u0432\u0437\u043b\u043e\u043c\u0430; \n3. \u0441\u0431\u043e\u0438 \u0432 \u0440\u0430\u0431\u043e\u0442\u0435 \u043f\u043e \u043f\u0440\u0438\u0447\u0438\u043d\u0435 \u0445\u043e\u0441\u0442\u0438\u043d\u0433-\u043f\u0440\u043e\u0432\u0430\u0439\u0434\u0435\u0440\u0430; \n4. \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c; \n5. \u043f\u043b\u043e\u0445\u0430\u044f \u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u044c \u0432 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445; \n6. \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f (\u0431\u0440\u0430\u0443\u0437\u0435\u0440\u043e\u0432, \u0441\u0435\u0440\u0432\u0435\u0440\u043d\u043e\u0433\u043e \u041f\u041e \u0438 \u0442.\u0434.).\n...\n\u0410 \u0435\u0441\u043b\u0438 \u0443 \u0412\u0430\u0441 \u0432\u043e\u0437\u043d\u0438\u043a\u043b\u0438 \u043a\u0430\u043a\u0438\u0435-\u043b\u0438\u0431\u043e \u0442\u0440\u0443\u0434\u043d\u043e\u0441\u0442\u0438 \u0441 \u0441\u0430\u0439\u0442\u043e\u043c, \u0442\u043e \u0437\u0432\u043e\u043d\u0438\u0442\u0435 \u043f\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430\u043c \u0438 \u043f\u0440\u043e\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0438\u0440\u0443\u0439\u0442\u0435\u0441\u044c \u0441 \u043d\u0430\u0448\u0438\u043c\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0430\u043c\u0438. \u260e\u0422\u0435\u043b. +7 (978) 767-90-06 \u260e\u0422\u0435\u043b. +7 (978) 098-53-16 \u2709e-mail: admin@art-web.ru \ud83d\udd0e\u0421\u0430\u0439\u0442: art-web.ru"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "Bkjy8R2FQ3u",
+                                        "edge_media_to_comment": {
+                                            "count": 1
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1530169499,
+                                        "dimensions": {
+                                            "height": 598,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/35427341_1722705361112553_6282976506197049344_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nFvo65wiBsYAX-SwRP7&oh=3bdf528cdad9284cc3c72e5b5906a20f&oe=5E7EC13B",
+                                        "edge_liked_by": {
+                                            "count": 10
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 10
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoX6KViiFh1HSnLnAz19qwtTkKyDJwB+HTNVo7gDI3YGFHXHrnnsPUjkdqluzNlT5ldP8P67HQu7gHgceh/xFLJIVUEdz36fiaw125ldHJBUnHYZYfyrOZwSAcsoHI3e56elTzFqje+u3l5X7nYJnaMnPvT65C1f98Nvyjd0J6f4n2711w6VadzKceV2vf+vVkMsKv94A/UU0W6f3V59hRRQRcXyV5AA5GOgqM2qeg/IUUUDuyMW2GBwuB7Cr9FFMT1dz//2Q==",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c228.0.567.567a/35427341_1722705361112553_6282976506197049344_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nFvo65wiBsYAX-SwRP7&oh=a7ca3290043767428bec98301f0742a5&oe=5E9880C3",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c228.0.567.567a/s150x150/35427341_1722705361112553_6282976506197049344_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nFvo65wiBsYAX-SwRP7&oh=d4b97ad353230b72bf704b2c5a034c3e&oe=5EAD4DAA",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c228.0.567.567a/s240x240/35427341_1722705361112553_6282976506197049344_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nFvo65wiBsYAX-SwRP7&oh=2303a9c582d21bab68ae3462eed11a5e&oe=5EB17DAC",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c228.0.567.567a/s320x320/35427341_1722705361112553_6282976506197049344_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nFvo65wiBsYAX-SwRP7&oh=43c471c6f0a8671bd6d078838ae34104&oe=5E8DF1D2",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c228.0.567.567a/s480x480/35427341_1722705361112553_6282976506197049344_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nFvo65wiBsYAX-SwRP7&oh=e223b2f8cc82a784fb2f3a15e61245d7&oe=5EAE2095",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c228.0.567.567a/35427341_1722705361112553_6282976506197049344_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nFvo65wiBsYAX-SwRP7&oh=a7ca3290043767428bec98301f0742a5&oe=5E9880C3",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1811514766944234875",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\u0421\u0442\u0443\u0434\u0438\u044f \u00abArtWeb\u00bb\ud83c\udfa8\u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0448\u0438\u0440\u043e\u043a\u0438\u0439 \u0441\u043f\u0435\u043a\u0442\u0440 \u0443\u0441\u043b\u0443\u0433 \u043f\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0434\u0438\u0437\u0430\u0439\u043d\u0430. \u041e\u0442 \u043b\u043e\u0433\u043e\u0442\u0438\u043f\u0430 \u0434\u043e \u0434\u0438\u0437\u0430\u0439\u043d\u0430 \u0438 \u0432\u0435\u0440\u0441\u0442\u043a\u0438 \u0431\u0443\u043a\u043b\u0435\u0442\u043e\u0432, \u043b\u0438\u0441\u0442\u043e\u0432\u043e\u043a \u0438 \u0431\u0430\u043d\u043d\u0435\u0440\u043e\u0432. \ud83d\udc47\u0421 \u043d\u0430\u0448\u0438\u043c\u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u043c\u0438 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u0437\u0434\u0435\u0441\u044c\ud83d\udc47 \nhttp://art-web.ru/index.php?id=portfolio\n...\n\ud83d\udd0e\u0421\u0430\u0439\u0442: art-web.ru \u260e\u0422\u0435\u043b. +7 (978) 767-90-06 \u260e\u0422\u0435\u043b. +7 (978) 098-53-16 \u2709e-mail: admin@art-web.ru"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkjyxUtFe17",
+                                        "edge_media_to_comment": {
+                                            "count": 1
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1530169410,
+                                        "dimensions": {
+                                            "height": 719,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/35999605_1670054519779234_549933217512161280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=o0g6zu0vQvYAX_v3Z8E&oh=7d14b07bee53719ecc20df8c5922384a&oe=5E76425A",
+                                        "edge_liked_by": {
+                                            "count": 5
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 5
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACob32+6QOuD/I1hwR+S4cRuxAxyU7/Q1sGcABhk5pBLuGSMfUHP60tGGtrFZrk5GI3xkZyp6dzxn8qfbfLGAeGySQcZGWJ6fQ1KW2KW5Y9hj+lUYYzISSc+vHPPpnp/hT73Ftb8WaDSLjO4fz+lSZFZyweVIOMg8ZxjkfTtjpVoyHP/ANapTfUppdCtE5h+XO5c4B/xq4Om7k1VsfmQ555qeR2Vcg4P/wBemohfp1H7zjhf5/4UqZY8jFRJISB7jPQe1SRgbug9elR7RJ8rXWwcvmLLhsDPzAjFNMBz1qwY1JyRz1pc1oL0P//Z",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.533.533a/35999605_1670054519779234_549933217512161280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=o0g6zu0vQvYAX_v3Z8E&oh=09446ed1df966465f94eb43b4669eb44&oe=5EB1CD0E",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.533.533a/s150x150/35999605_1670054519779234_549933217512161280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=o0g6zu0vQvYAX_v3Z8E&oh=7d9c08fb6bbba5cdb95c57faa1d01294&oe=5EB33E87",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.533.533a/s240x240/35999605_1670054519779234_549933217512161280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=o0g6zu0vQvYAX_v3Z8E&oh=5288f107f9b938562e1f8cfc37f840bc&oe=5E7B45CD",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.533.533a/s320x320/35999605_1670054519779234_549933217512161280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=o0g6zu0vQvYAX_v3Z8E&oh=471cd3b485d1adb9a9915a9a9efc7a13&oe=5E751B77",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.533.533a/s480x480/35999605_1670054519779234_549933217512161280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=o0g6zu0vQvYAX_v3Z8E&oh=7f395dee028f13b33d993498c15349c3&oe=5E95492D",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c133.0.533.533a/35999605_1670054519779234_549933217512161280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=o0g6zu0vQvYAX_v3Z8E&oh=09446ed1df966465f94eb43b4669eb44&oe=5EB1CD0E",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "Image may contain: 1 person"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1811514312273413193",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\u0412 \u00abYouTube\u00bb \u043f\u043e\u044f\u0432\u0438\u043b\u0430\u0441\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0432\u0435\u0441\u0442\u0438 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438\ud83d\ude03\n...\n\u0414\u043b\u044f \u043a\u0440\u0435\u0430\u0442\u043e\u0440\u043e\u0432, \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0434\u043f\u0438\u0441\u0447\u0438\u043a\u043e\u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0434\u043e\u0441\u0442\u0438\u0433\u0430\u0435\u0442 \u0431\u043e\u043b\u0435\u0435 10 \u0442\u044b\u0441\u044f\u0447, \u00abYouTube\u00bb \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438.\ud83d\udca1 \u0414\u043b\u044f \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u0430\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u044f \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430 \u0432 \u0441\u043a\u043e\u0440\u043e\u043c \u0431\u0443\u0434\u0443\u0449\u0435\u043c. \u0422\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438 \u0441 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432 \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u044b \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u0438\u0434\u0435\u043e\u0445\u043e\u0441\u0442\u0438\u043d\u0433\u0430. \u0422\u0430\u043a\u0436\u0435 \u0432 \u00abYouTube\u00bb \u043f\u043e\u044f\u0432\u0438\u043b\u0441\u044f \u0441\u0443\u043f\u0435\u0440\u0447\u0430\u0442. \u041e\u043d \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0434\u043b\u044f \u043a\u0440\u0435\u0430\u0442\u043e\u0440\u043e\u0432 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u0432 20 \u0441\u0442\u0440\u0430\u043d\u0430\u0445, \u043d\u043e \u0420\u043e\u0441\u0441\u0438\u044f \u0432 \u0438\u0445 \u0447\u0438\u0441\u043b\u043e \u043f\u043e\u043a\u0430 \u043d\u0435 \u0432\u043e\u0448\u043b\u0430."
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkjyqtQl8RJ",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1530169355,
+                                        "dimensions": {
+                                            "height": 606,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/35299772_280018159208241_7218096989408329728_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=49fGv3fmPz0AX8pfzDw&oh=91c5ac43ad2b033416430c5ab860ca09&oe=5E8DBA18",
+                                        "edge_liked_by": {
+                                            "count": 6
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 6
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoXrwYkxt5zwKtmMr1GM1kWsmWRE4ABJz6/56V0K6jA7lN3zZ6YPtz+GCKAIEiZwSOg60hjOM9jVtZVDk9jjt6Ef4VjS6zMkm0KoVTyp5zjHf8ADt0pF6LdDpcOWiPBI/PPf8D1rFaIqSOOOOorSv7rdIkyjG5cgn3HI/A/nWT1pkvcu2LBCzH+Edalsk+Zpuw3YHf1/lRRQSWnuHREkwMMeR7Hp+NUr62KMZB91j+OaKKALe2C5hDEspQHgDpx+v51iUUUDP/Z",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c212.0.544.544a/35299772_280018159208241_7218096989408329728_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=49fGv3fmPz0AX8pfzDw&oh=e261c52325b83e8721b26dfb713add81&oe=5E99E390",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c212.0.544.544a/s150x150/35299772_280018159208241_7218096989408329728_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=49fGv3fmPz0AX8pfzDw&oh=8b9848bcfb5c82819563ae49a875d9d9&oe=5EAB6331",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c212.0.544.544a/s240x240/35299772_280018159208241_7218096989408329728_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=49fGv3fmPz0AX8pfzDw&oh=6dfebbc218640c30deaaf2f25264329c&oe=5E8E877B",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c212.0.544.544a/s320x320/35299772_280018159208241_7218096989408329728_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=49fGv3fmPz0AX8pfzDw&oh=656bb227d87f7b957c1e22f4dafa9e70&oe=5EA872C1",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c212.0.544.544a/s480x480/35299772_280018159208241_7218096989408329728_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=49fGv3fmPz0AX8pfzDw&oh=aae57f19139d80d871b4762650f55fcd&oe=5E95979B",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c212.0.544.544a/35299772_280018159208241_7218096989408329728_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=49fGv3fmPz0AX8pfzDw&oh=e261c52325b83e8721b26dfb713add81&oe=5E99E390",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1811513793983254647",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "4 \u043b\u0430\u0439\u0444\u0445\u0430\u043a\u0430 \u0434\u043b\u044f \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0437\u0430\u043a\u0430\u0437\u043e\u0432 \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0438 \u0443\u0441\u043b\u0443\u0433 \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u0441\u0430\u0439\u0442\u0435.\n...\n\ud83d\udca5\u0414\u043e\u0431\u0430\u0432\u044c\u0442\u0435 \u0432\u0438\u0434\u0435\u043e \u043d\u0430 \u0441\u0430\u0439\u0442. \u0412\u043e\u0432\u043b\u0435\u043a\u0430\u044e\u0449\u0438\u0435 \u0432\u0438\u0434\u0435\u043e\u0440\u043e\u043b\u0438\u043a\u0438 \u043e \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0435, \u043e\u0442\u0437\u044b\u0432\u044b \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u0435\u043b\u0435\u0439 \u0438 \u0434\u0430\u0436\u0435 \u0432\u0438\u0434\u0435\u043e\u044d\u043a\u0441\u043a\u0443\u0440\u0441\u0438\u0438 \u043f\u043e \u0432\u0430\u0448\u0435\u043c\u0443 \u0440\u0430\u0431\u043e\u0447\u0435\u043c\u0443 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0443 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u044e \u043a\u043e\u043d\u0432\u0435\u0440\u0441\u0438\u0438. \u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442, \u0447\u0442\u043e 44% \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432 \u0434\u0435\u043b\u0430\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u043e\u043a\u0443\u043f\u043e\u043a \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0441 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u043c\u0438 \u0432\u0438\u0434\u0435\u043e\u0440\u043e\u043b\u0438\u043a\u0430\u043c\u0438.\n...\n\ud83d\udca5\u0420\u0430\u0437\u044b\u0433\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u043f\u0440\u0438\u0437\u044b, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0439\u0442\u0435 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b. \u0422\u0430\u043a\u0438\u043c\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f\u043c\u0438 \u0432\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441 \u0443 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u0438 \u043a \u0441\u0430\u0439\u0442\u0443 \u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0442\u044c \u0432\u0430\u0448 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0442\u0440\u0430\u0444\u0438\u043a \u0438 \u043f\u0440\u043e\u0434\u0430\u0436\u0438.\n...\n\ud83d\udca5\u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0439\u0442\u0435 \u0432\u0441\u0435\u043c, \u043a\u0442\u043e \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0435\u0442\u0441\u044f \u043a \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u043a\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435, \u0441\u043a\u0438\u0434\u043a\u0443 \u043d\u0430 \u0432\u0430\u0448\u0438 \u0442\u043e\u0432\u0430\u0440\u044b \u0438 \u0443\u0441\u043b\u0443\u0433\u0438. \u042d\u0442\u043e \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0438 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0434\u0430\u0436, \u0438 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u043e\u0432.\n...\n\ud83d\udca5\u0412\u044b\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0438 \u0446\u0432\u0435\u0442 \u0448\u0440\u0438\u0444\u0442\u0430. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0440\u0430\u0437\u043c\u0435\u0440\u044b \u0434\u043b\u044f \u0432\u044b\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0437\u0430\u0433\u043e\u043b\u043e\u0432\u043a\u043e\u0432. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0435\u0441\u043b\u0438 \u0432\u0430\u0448\u0430 \u0446\u0435\u043b\u0435\u0432\u0430\u044f \u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u044f \u043f\u0440\u0435\u0441\u0442\u0430\u0440\u0435\u043b\u044b\u0435 \u043b\u044e\u0434\u0438 - \u0443\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c, \u0447\u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0435 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u0448\u0440\u0438\u0444\u0442. \u0422\u0430\u043a\u0436\u0435 \u043d\u0435\u043c\u0430\u043b\u043e\u0432\u0430\u0436\u043d\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0438\u043c\u0435\u0435\u0442 \u043a\u043e\u043d\u0442\u0440\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u044c \u0446\u0432\u0435\u0442\u0430 \u0442\u0435\u043a\u0441\u0442\u0430 \u0438 \u0444\u043e\u043d\u0430."
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkjyjKkF5B3",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1530169294,
+                                        "dimensions": {
+                                            "height": 535,
+                                            "width": 750
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/36159899_231621224330780_6478943696271179776_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0ZRtnkKPCjQAX8NPAfX&oh=0ac9db8645dafe6950124db19df38ec3&oe=5E999A0F",
+                                        "edge_liked_by": {
+                                            "count": 8
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 8
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoeUAetLx/nNNq/ASR5a42kc565PB+ntWj0MYq+hSwP85o4/wA5qeBEmcxgMNoOSenBx/n2ps6orbV6jg56fzo+8LehFgU2lYY/nSVSJCrFo+1icdqr1Mo2xlu5OP8AGont6tL53Kho7+T/ACLjXEBzkE564zj+dQPNGSojU4XIwR7Y9+lVxIQpUdDz+PtTdwDbwOaHBNWGp63HSMGbIGB6UypJRzn+8M1HTjayttYmW79T/9k=",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.500.500a/36159899_231621224330780_6478943696271179776_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0ZRtnkKPCjQAX8NPAfX&oh=34060cd0f3fc177c721745c83705fcd0&oe=5E7994C1",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.500.500a/s150x150/36159899_231621224330780_6478943696271179776_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0ZRtnkKPCjQAX8NPAfX&oh=0ce9ab1e13d6c7c0864f7949d54fae08&oe=5EAF3C41",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.500.500a/s240x240/36159899_231621224330780_6478943696271179776_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0ZRtnkKPCjQAX8NPAfX&oh=d6c5dc3a4da2f91fec9ad6569b401c92&oe=5E7BF40B",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.500.500a/s320x320/36159899_231621224330780_6478943696271179776_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0ZRtnkKPCjQAX8NPAfX&oh=fde0979a7542f1fbefc1b3b2a60e5de8&oe=5E7823B1",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.500.500a/s480x480/36159899_231621224330780_6478943696271179776_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0ZRtnkKPCjQAX8NPAfX&oh=e8e694bd5e225dc946e420ad671bd396&oe=5E9245EB",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.500.500a/36159899_231621224330780_6478943696271179776_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0ZRtnkKPCjQAX8NPAfX&oh=34060cd0f3fc177c721745c83705fcd0&oe=5E7994C1",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphSidecar",
+                                        "id": "1809317988965387413",
+                                        "edge_media_to_caption": {
+                                            "edges": []
+                                        },
+                                        "shortcode": "Bkb_R_yAYyV",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1529907533,
+                                        "dimensions": {
+                                            "height": 1080,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/36085992_841225719411346_6501261759385436160_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c3cWaVMXlkcAX_qXTh0&oh=8dbf1ba8fa6757e00e3053f61960fcaa&oe=5EB3BAF1",
+                                        "edge_liked_by": {
+                                            "count": 7
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 7
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": null,
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/36085992_841225719411346_6501261759385436160_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c3cWaVMXlkcAX_qXTh0&oh=5422807baf3ad10a4a0311fe402b7fa2&oe=5E762914",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/36085992_841225719411346_6501261759385436160_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c3cWaVMXlkcAX_qXTh0&oh=0d01c42af7d0746701c484e1bf2c7dba&oe=5E952FB3",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/36085992_841225719411346_6501261759385436160_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c3cWaVMXlkcAX_qXTh0&oh=b72c6e718cf95bcaaf4c6892fd9f10c1&oe=5E7988F9",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/36085992_841225719411346_6501261759385436160_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c3cWaVMXlkcAX_qXTh0&oh=7ddb1e5b295114e48ee4668387cb013a&oe=5E7B2A43",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/36085992_841225719411346_6501261759385436160_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c3cWaVMXlkcAX_qXTh0&oh=c42404a55a8ff3f02da9ed391c7c33a0&oe=5E93AD19",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/36085992_841225719411346_6501261759385436160_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c3cWaVMXlkcAX_qXTh0&oh=5422807baf3ad10a4a0311fe402b7fa2&oe=5E762914",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "Image may contain: 1 person"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1806467829870338515",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\ud83d\udc475 \u043f\u0440\u0438\u0447\u0438\u043d \u0437\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0441\u0430\u0439\u0442 \u00ab\u043f\u043e\u0434 \u043a\u043b\u044e\u0447\u00bb \u0443 \u0441\u0442\u0443\u0434\u0438\u0438 \u00abArtWeb\u00bb\n...\n\ud83d\udccc \u041d\u0430\u0448\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u0440\u044b\u043d\u043a\u0435 \u0431\u043e\u043b\u0435\u0435 8 \u043b\u0435\u0442. \u0417\u0430 \u044d\u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043d\u0430\u043c\u0438 \u0431\u044b\u043b\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 400 \u0440\u0430\u0437\u043d\u044b\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432. \u0410 \u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u0441 \u043d\u0430\u0448\u0438\u043c \u043f\u043e\u0440\u0442\u0444\u043e\u043b\u0438\u043e \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0434\u0435\u0441\u044c http://art-web.ru/index.php?id=portfolio\n\ud83d\udccc \u0423 \u043d\u0430\u0441 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u043e\u043f\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u0443\u0441\u043b\u0443\u0433\u0438 \u0432 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u0435 \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0439 \u0446\u0435\u043d\u0435.\n\ud83d\udccc \u041c\u044b \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c \u043a\u043b\u0438\u0435\u043d\u0442\u0443 \u0440\u043e\u0432\u043d\u043e \u0441\u0442\u043e\u043b\u044c\u043a\u043e, \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0435\u043c\u0443 \u043d\u0430\u0434\u043e.\n\ud83d\udccc \u041c\u044b \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u043c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0434\u0438\u0437\u0430\u0439\u043d\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u044b \u0438\u043c\u0435\u043d\u043d\u043e \u0434\u043b\u044f \u0432\u0430\u0441.\n\ud83d\udccc \u041c\u044b \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u043c \u0441\u043e\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0441\u0440\u043e\u043a\u043e\u0432.\n...\n\ud83d\udd0e\u0421\u0430\u0439\u0442: art-web.ru \u260e\u0422\u0435\u043b. +7 (978) 767-90-06\n\u260e\u0422\u0435\u043b. +7 (978) 098-53-16\n\u2709e-mail: admin@art-web.ru"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkR3OuRl6HT",
+                                        "edge_media_to_comment": {
+                                            "count": 1
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1529567768,
+                                        "dimensions": {
+                                            "height": 618,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/34616844_669466443397626_222358587287011328_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ATBTgl50sIUAX-Pa0pc&oh=b20f43f7c8b7568f5482aea086f04b83&oe=5E93FD42",
+                                        "edge_liked_by": {
+                                            "count": 5
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 5
+                                        },
+                                        "location": {
+                                            "id": "242809515",
+                                            "has_public_page": true,
+                                            "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0440\u044b\u043c",
+                                            "slug": ""
+                                        },
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoY3nnKOFIG09885+mP61CbpirYADrg4J4x69B6YxS3m0AFugPpn3H61jGZ5DgA8gA8c9eRkf5xQBt/aORyMbcn649c0w3LIMtjGCeh7fjWYizCMqFA9z2/DpTvMkbaDtOAcDkEg49fegDQFy5ZUxyeTx2/Or9Z1rFKrZfGOenvWjQBSvInlwFUMBnqSB+IHX9azzbTMCFGFIxjhc+2M9PrRRTv0JtrfX7zSs4zHGAww3fnP5en+etWWVW6gHHqKKKRRCrybgCOO9T0UUDZ/9k=",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c231.0.618.618a/34616844_669466443397626_222358587287011328_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ATBTgl50sIUAX-Pa0pc&oh=fe51291e5460273e742eca9d6afd5211&oe=5EAD466B",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c231.0.618.618a/s150x150/34616844_669466443397626_222358587287011328_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ATBTgl50sIUAX-Pa0pc&oh=8997f6fc4e39ce1e69087682b60f8af1&oe=5EACA910",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c231.0.618.618a/s240x240/34616844_669466443397626_222358587287011328_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ATBTgl50sIUAX-Pa0pc&oh=ec56d27afeb68b0f9394ce3cb86568d4&oe=5EB49AA5",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c231.0.618.618a/s320x320/34616844_669466443397626_222358587287011328_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ATBTgl50sIUAX-Pa0pc&oh=64be8e43d23c96b093e4622529b69465&oe=5E8EDD1D",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c231.0.618.618a/s480x480/34616844_669466443397626_222358587287011328_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ATBTgl50sIUAX-Pa0pc&oh=22af7febabb9bf3d6c7f1ae982d17f61&oe=5E7E5541",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c231.0.618.618a/34616844_669466443397626_222358587287011328_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ATBTgl50sIUAX-Pa0pc&oh=fe51291e5460273e742eca9d6afd5211&oe=5EAD466B",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1806466859887127322",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\u0413\u0440\u0443\u043f\u043f\u0430 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u0432 \u00abFacebook\u00bb \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u043b\u0430 \u0441\u043d\u044f\u0442\u044c \u041c\u0430\u0440\u043a\u0430 \u0426\u0443\u043a\u0435\u0440\u0431\u0435\u0440\u0433\u0430 \u0441 \u043f\u043e\u0441\u0442\u0430 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u043e\u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438. \ud83d\ude2e \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 VentureBeat.\n...\n\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043e \u043d\u0430 \u0442\u043e\u043c, \u0447\u0442\u043e \u00ab\u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0439 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u0441\u043e\u0432\u0435\u0442\u0430 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u043e\u0432 \u0441\u043f\u043e\u0441\u043e\u0431\u0435\u043d \u043b\u0443\u0447\u0448\u0435 \u0441\u043b\u0435\u0434\u0438\u0442\u044c \u0437\u0430 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f\u043c\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u0443\u044e \u0434\u043b\u044f \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f\u00bb.\n...\n\u0422\u0430\u043a\u043e\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043f\u043e\u0441\u0442\u0443\u043f\u0438\u043b\u043e \u043e\u0442 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u0432 \u00abFacebook\u00bb, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0447\u043b\u0435\u043d\u0430\u043c\u0438 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u043e\u0439 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 SumOfUs. \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u0442 \u0441\u0435\u0431\u044f \u043a\u0430\u043a \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u0438 \u043a \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0437\u0430 \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043a\u043b\u0438\u043c\u0430\u0442\u0430, \u0443\u0449\u0435\u043c\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u0430\u0432 \u0442\u0440\u0443\u0434\u044f\u0449\u0438\u0445\u0441\u044f, \u043f\u0440\u0430\u0432 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u043a\u043e\u0440\u0440\u0443\u043f\u0446\u0438\u044f \u0438 \u0434\u0440\u0443\u0433\u0438\u0435.\n...\n\u0421\u043e\u0432\u0435\u0442\u043d\u0438\u043a \u0440\u044b\u043d\u043a\u0430 \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u043e\u0432 SumOfUs \u041b\u0430\u0439\u0437\u0430 \u041b\u0438\u043d\u0434\u0441\u043b\u0438 (Lisa Lindsley) \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0438\u0437\u0434\u0430\u043d\u0438\u044e, \u0447\u0442\u043e \u043e\u043a\u043e\u043b\u043e 333 \u0442\u044b\u0441\u044f\u0447 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043b\u0438 \u043f\u0435\u0442\u0438\u0446\u0438\u044e \u0441 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0432 \u00abFacebook\u00bb \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u0443\u044e \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 1,5 \u0442\u044b\u0441\u044f\u0447\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u2014 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u044b \u0441\u043e\u0446\u0441\u0435\u0442\u0438. \u041e\u043d\u0430 \u0443\u0442\u043e\u0447\u043d\u0438\u043b\u0430, \u0447\u0442\u043e \u0430\u043a\u0446\u0438\u0438 \u0447\u0435\u0442\u044b\u0440\u0435\u0445 \u0447\u043b\u0435\u043d\u043e\u0432 SumOfUs \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u043f\u043e\u0434\u0430\u0442\u044c \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043f\u043e \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044e \u0426\u0443\u043a\u0435\u0440\u0431\u0435\u0440\u0433\u0430.\n...\n\u0418\u0437\u0434\u0430\u043d\u0438\u0435 \u043e\u0442\u043c\u0435\u0447\u0430\u0435\u0442, \u0447\u0442\u043e \u043d\u0430\u043b\u0438\u0447\u0438\u0435 \u0433\u0435\u043d\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430 \u043d\u0430 \u043f\u043e\u0441\u0442\u0443 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0432 Tesla, Bank of America, Walt Disney Company, IBM, Amazon, Netflix \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u0445. \u0412\u0440\u044f\u0434 \u043b\u0438 Facebook \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0442\u0441\u044f \u0441 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u043d\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b, \u0442\u0435\u043c \u0431\u043e\u043b\u0435\u0435 \u0447\u0442\u043e \u0426\u0443\u043a\u0435\u0440\u0431\u0435\u0440\u0433 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u0438 \u044d\u0442\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0432\u043b\u0438\u044f\u0442\u044c \u043d\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438 \u0441\u043e\u0446\u0441\u0435\u0442\u0438, \u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0442 \u0432 VentureBeat.\ud83d\ude0f \u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a: RB"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkR3Am6Fmsa",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1529567652,
+                                        "dimensions": {
+                                            "height": 750,
+                                            "width": 750
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/34408627_2087517631516793_6924813631477514240_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UO-Hq6ostbEAX8YsHJ7&oh=532eceb8a31302d23e33ddb97065d32a&oe=5EB20158",
+                                        "edge_liked_by": {
+                                            "count": 6
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 6
+                                        },
+                                        "location": {
+                                            "id": "225805804",
+                                            "has_public_page": true,
+                                            "name": "Simferopol International Airport",
+                                            "slug": "simferopol-international-airport"
+                                        },
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoqhRSxwvJ608Gr8Fk8MisSCCGU47ZHH16UCxQdXyDyMd1AGT9eeK6OdGdmMsv9b+BrRaQhto9M8/57dTVZUCXAAyfk7/TH8hVzg+9YT1aZpHTcrLIWyD+XOR7f4UYqUoqjgYpmKPQB7Eq/C4VipZyevGBge3APQYqg92kIEafOYwFB/hI43fyx3rPaaR1CMxKr0H+Pr+NRdK3VPuZuXYsm4llDOv38HHbAyM1ctolVgRu3DqcjB9eB2NYK3mz5R0PDH2J5xVlb7yf9VtOAfmYdfQDv+Nc8rNqxotmdKTTap2V4LtCcYZfvD+RHsauUCOeqOXhD9DUlRzfcb6Gu97GBkinfyplO7VwG5q6MSJyOxU5/SukrmdI/4+P+AH+ldLTA/9k=",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/34408627_2087517631516793_6924813631477514240_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UO-Hq6ostbEAX8YsHJ7&oh=c353c360c878620bd76fc8e0261630a2&oe=5EAE0DE2",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/34408627_2087517631516793_6924813631477514240_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UO-Hq6ostbEAX8YsHJ7&oh=7b308c9628555d49dcc96faf55b23c50&oe=5E975767",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/34408627_2087517631516793_6924813631477514240_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UO-Hq6ostbEAX8YsHJ7&oh=6deb7645c9bda8c24a394183aafde92c&oe=5E7C7E61",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/34408627_2087517631516793_6924813631477514240_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UO-Hq6ostbEAX8YsHJ7&oh=20e0a630d3a2f7d6fd3164070df921fd&oe=5EB3BD1F",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/34408627_2087517631516793_6924813631477514240_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UO-Hq6ostbEAX8YsHJ7&oh=82bf9b741dc8e142bd62d7d512a24dfa&oe=5E996A58",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/34408627_2087517631516793_6924813631477514240_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UO-Hq6ostbEAX8YsHJ7&oh=c353c360c878620bd76fc8e0261630a2&oe=5EAE0DE2",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "Image may contain: 1 person"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1805004366109740800",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\ud83d\udca14 \u043f\u0440\u0438\u0447\u0438\u043d\u044b \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u044c \u0441\u0432\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441 \u0432 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u0435\u0442\u044f\u0445? \ud83d\udca1\n...\n\u042d\u0442\u043e \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0438 \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u043b\u0435\u0433\u043a\u0438\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0437\u0430\u044f\u0432\u0438\u0442\u044c \u043e \u0441\u0432\u043e\u0435\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438. \ud83d\udd06 \u0423 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u0435\u0442\u0435\u0439 \u043e\u0433\u0440\u043e\u043c\u043d\u0430\u044f \u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u044f. \u0421\u0440\u0435\u0434\u0438 \u0442\u0430\u043a\u043e\u0433\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0430\u0439\u0434\u0443\u0442\u0441\u044f \u0442\u0435, \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043d\u0443\u0436\u0435\u043d \u0432\u0430\u0448 \u0442\u043e\u0432\u0430\u0440 \u0438\u043b\u0438 \u0443\u0441\u043b\u0443\u0433\u0430.\n...\n\u0414\u0438\u0430\u043b\u043e\u0433 \u0441 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c\u0438 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u044b\u0435 \u0438 \u0443\u0434\u043e\u0431\u043d\u044b\u0435 \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u0435\u0442\u0435\u0439. \ud83d\udd06 \u0414\u043e\u043a\u0430\u0437\u0430\u043d\u043e, \u0447\u0442\u043e \u043f\u0440\u0438 \u043d\u0430\u043b\u0438\u0447\u0438\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u043c\u044b\u0445 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u043e\u0432 \u0432 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u0435\u0442\u044f\u0445, \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 \u0438\u0434\u0435\u0442 \u043d\u0430\u043c\u043d\u043e\u0433\u043e \u0431\u044b\u0441\u0442\u0440\u0435\u0435.\n...\n\u0410 \u0432\u044b \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0435 \u0441\u0432\u043e\u0438 \u0442\u043e\u0432\u0430\u0440\u044b \u0438 \u0443\u0441\u043b\u0443\u0433\u0438 \u0432 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u0435\u0442\u044f\u0445? \u0414\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0440\u0430\u0441\u043a\u0440\u0443\u0442\u043a\u0443 \u0432\u0430\u0448\u0435\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0430\u043c \u00ab\u0410rt-web\u00bb! \ud83c\udfc6\n...\n\ud83d\udd0e\u0421\u0430\u0439\u0442: art-web.ru \u260e\u0422\u0435\u043b. +7 (978) 767-90-06 \u260e\u0422\u0435\u043b. +7 (978) 098-53-16 \u2709e-mail: admin@art-web.ru"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkMqehcAA8A",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1529393309,
+                                        "dimensions": {
+                                            "height": 665,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/34644999_433425530403073_8738915106143862784_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yIRGMHKFsCoAX976Xin&oh=520a4301d30d8e88156cb661f63123bf&oe=5E7AFB3B",
+                                        "edge_liked_by": {
+                                            "count": 4
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 4
+                                        },
+                                        "location": {
+                                            "id": "1003191972",
+                                            "has_public_page": true,
+                                            "name": "\u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a, \u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c",
+                                            "slug": ""
+                                        },
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoZ6WonOWAB7EnHp6/n0qK6WVwBGQB/F2JHoG5A/L8ahtY5VY7zhOgDYL8e68ADt1J9qdutxFleGLs3bGO3Xg4z3pZp1iXPVsZC9z+H9aYQVPzEHAORj3457Y/WmG3jnG51+Y55yQRg+vB49KPUPQfFeQynCthvQ8H8j/SrVU7eBEwy5fPRmOSAfT/OauUO3QF5iY5zUTR59fqOD/hU1FIe5XZMKcjORUHkhMMAcnnHYE9T6/hmr9NND1GnYrRytu24+Ueg6fj/AEq3TaWgR//Z",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c196.0.630.630a/34644999_433425530403073_8738915106143862784_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yIRGMHKFsCoAX976Xin&oh=00824840a9dba2193ffbbc75399e6212&oe=5E7AB98B",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c196.0.630.630a/s150x150/34644999_433425530403073_8738915106143862784_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yIRGMHKFsCoAX976Xin&oh=753d813f5b870b0b4d86625dec1d0090&oe=5EA79AA0",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c196.0.630.630a/s240x240/34644999_433425530403073_8738915106143862784_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yIRGMHKFsCoAX976Xin&oh=7aaee226f65492613604453b1ce9754c&oe=5E7A85EA",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c196.0.630.630a/s320x320/34644999_433425530403073_8738915106143862784_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yIRGMHKFsCoAX976Xin&oh=db77bddbd545d229a822426a40cf6586&oe=5EACB050",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c196.0.630.630a/s480x480/34644999_433425530403073_8738915106143862784_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yIRGMHKFsCoAX976Xin&oh=3610b132505cea5597affdc90952d446&oe=5EA8910A",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c196.0.630.630a/34644999_433425530403073_8738915106143862784_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yIRGMHKFsCoAX976Xin&oh=00824840a9dba2193ffbbc75399e6212&oe=5E7AB98B",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1804993772229130425",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\u0414\u0438\u0437\u0430\u0439\u043d \u0441\u0442\u0443\u0434\u0438\u044f \u00abArtWeb\u00bb \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0443\u0441\u043b\u0443\u0433\u0438 \u043f\u043e SEO-\u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u0432\u0435\u0431-\u0440\u0435\u0441\u0443\u0440\u0441\u0430, \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u043e\u0439 \u0435\u0435 \u043f\u043b\u0430\u043d\u0430, \u0438 \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0430\u043a\u0430\u0437\u0430, \u0435\u0433\u043e \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u0435\u043d\u0438\u0435\u043c. \u041d\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f\u0448\u043d\u0438\u0439 \u0434\u0435\u043d\u044c \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 \u2013 \u0432\u0430\u0436\u043d\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u0430 \u0434\u043b\u044f \u043b\u044e\u0431\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430. \u0427\u0435\u043c \u0432\u044b\u0448\u0435 \u0435\u0433\u043e \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u0445 \u043f\u043e\u0438\u0441\u043a\u0430, \u0442\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0430\u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435\u043b\u0435\u0439 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 \u043d\u0435\u0433\u043e \u0441 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c.\n...\nSEO-\u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u043e\u0442 \u0434\u0438\u0437\u0430\u0439\u043d \u0441\u0442\u0443\u0434\u0438\u0438 \u00abArtWeb\u00bb - \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441. \u041d\u0430\u0448\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b \u043d\u0430\u0434 \u0441\u0430\u0439\u0442\u043e\u043c, \u0443\u043b\u0443\u0447\u0448\u0430\u044e\u0449\u0438\u0435 \u0435\u0433\u043e \u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u044c \u0432 \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u0438 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0449\u0438\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435.\n...\n\ud83d\udd0e\u0421\u0430\u0439\u0442: art-web.ru \u260e\u0422\u0435\u043b. +7 (978) 767-90-06 \u260e\u0422\u0435\u043b. +7 (978) 098-53-16 \u2709e-mail: admin@art-web.ru"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkMoEXHgni5",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1529392046,
+                                        "dimensions": {
+                                            "height": 733,
+                                            "width": 1080
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/34859722_2586378708253178_6135606905436897280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=797QfP_q9DsAX9_AYvB&oh=22dee878105949cd8ea9e8aff83c26a9&oe=5E948EFD",
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 1
+                                        },
+                                        "location": {
+                                            "id": "1016499603",
+                                            "has_public_page": true,
+                                            "name": "\u041a\u0440\u044b\u043c\u0441\u043a\u0438\u0439 \u043c\u043e\u0441\u0442",
+                                            "slug": ""
+                                        },
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACoc3cn+6fzH+NKi7VAPXFHmADJIxUEk64BPQ9P89cflTCxMQA2c/wAql6Vix3qAjnAwWPHYZzn/ADntV63leXex+4GAUdCMcMGH1oEWQWGeD1Pcev1pdx/un8x/jUNxMY4y69Rj8s0fa4/X9DQBmC8VGCFeR34wM9MZNTQfvMHg4H9T29ae1jEx3HOfrWdf5s9ohJXIJPPXpTCxoCGBP7o69QO/Xr/ntjFSRtB0U8KeAufr29T1/OuYOoSuQzbWIzglR25rS028luJCHPAU8AAenoKmwzSursKm0Lnd8vJwPx/z+NZ3mN6J/wB9D/GtOS1SXl8n8f8APrUX9nw+h/M1Qj//2Q==",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c173.0.733.733a/s640x640/34859722_2586378708253178_6135606905436897280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=797QfP_q9DsAX9_AYvB&oh=294bc9bbd4a35c743223e4ffb84a6e79&oe=5E7D3310",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c173.0.733.733a/s150x150/34859722_2586378708253178_6135606905436897280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=797QfP_q9DsAX9_AYvB&oh=c822a98b62eba07ffaf18f2117989cab&oe=5E97E057",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c173.0.733.733a/s240x240/34859722_2586378708253178_6135606905436897280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=797QfP_q9DsAX9_AYvB&oh=0f307e1eac2e2398965339e6c8087af9&oe=5E744A51",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c173.0.733.733a/s320x320/34859722_2586378708253178_6135606905436897280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=797QfP_q9DsAX9_AYvB&oh=eff56c4de6918dec1fb2b8815ff79446&oe=5E97042F",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c173.0.733.733a/s480x480/34859722_2586378708253178_6135606905436897280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=797QfP_q9DsAX9_AYvB&oh=16a3ca310c809afd16beddde35a416eb&oe=5E73A968",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c173.0.733.733a/s640x640/34859722_2586378708253178_6135606905436897280_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=797QfP_q9DsAX9_AYvB&oh=294bc9bbd4a35c743223e4ffb84a6e79&oe=5E7D3310",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "__typename": "GraphImage",
+                                        "id": "1804992892951930043",
+                                        "edge_media_to_caption": {
+                                            "edges": [
+                                                {
+                                                    "node": {
+                                                        "text": "\u0417\u0430\u0447\u0435\u043c \u0441\u0430\u0439\u0442\u0443 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f?\ud83e\udd13 \u041d\u0430\u0432\u0435\u0440\u043d\u044f\u043a\u0430 \u0432\u044b \u043d\u0435 \u0440\u0430\u0437 \u043e\u0431\u0440\u0430\u0449\u0430\u043b\u0438 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0447\u0442\u043e \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0438\u0435 \u043d\u0430\u0441 \u043b\u044e\u0434\u0438 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0441\u0432\u043e\u0438\u043c\u0438 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u0430\u043c\u0438. \u041d\u0430 \u0443\u043b\u0438\u0446\u0435, \u0432 \u043a\u0430\u0444\u0435 \u0438 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430\u0445, \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0430\u0445, \u043e\u0444\u0438\u0441\u0435 \u0438 \u0434\u0430\u0436\u0435 \u0434\u043e\u043c\u0430 \u043b\u044e\u0434\u0438 \u0438\u0449\u0443\u0442 \u043a\u0430\u043a\u0443\u044e-\u043b\u0438\u0431\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e.\n...\n\u0417\u043d\u0430\u044f \u044d\u0442\u043e, \u043e\u043f\u044b\u0442\u043d\u044b\u0435 \u0431\u0438\u0437\u043d\u0435\u0441\u043c\u0435\u043d\u044b \u0443\u0436\u0435 \u0434\u0430\u0432\u043d\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0434\u043b\u044f \u0441\u0432\u043e\u0438\u0445 \u0441\u0430\u0439\u0442\u043e\u0432 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0432\u0435\u0440\u0441\u0438\u0438.\ud83d\udcbc \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u044d\u0442\u043e\u043c\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043d\u0430\u043c\u043d\u043e\u0433\u043e \u0443\u0434\u043e\u0431\u043d\u0435\u0439 \u043f\u0440\u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u0438 \u0438\u0441\u043a\u0430\u0442\u044c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e\u0431 \u0443\u0441\u043b\u0443\u0433\u0430\u0445 \u0438\u043b\u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438. \n\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f \u043c\u043e\u0436\u0435\u0442 \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c \u043e\u0442 \u0440\u044f\u0434\u0430 \u043d\u0435\u0443\u0434\u043e\u0431\u0441\u0442\u0432. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0431\u043e\u043b\u0435\u0435 \u043a\u0440\u0443\u043f\u043d\u044b\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0442 \u0431\u0435\u0437 \u0442\u0440\u0443\u0434\u0430 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442\u044c \u0432 \u043d\u0443\u0436\u043d\u044b\u0435 \u0440\u0430\u0437\u0434\u0435\u043b\u044b. \u0414\u0430 \u0438 \u0440\u0430\u0431\u043e\u0442\u043e\u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0441\u0430\u0439\u0442\u0430 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f. \u041e\u043d \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0443\u0434\u043e\u0431\u043d\u044b\u043c, \u043a\u0440\u0443\u043f\u043d\u044b\u043c, \u0431\u044b\u0441\u0442\u0440\u044b\u043c \u0438 \u043b\u0435\u0433\u043a\u0438\u043c.\n...\n\ud83d\udd0eArt-web.ru \u2013 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430! \u260e+7 (978) 767-90-06"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "shortcode": "BkMn3kOgSS7",
+                                        "edge_media_to_comment": {
+                                            "count": 0
+                                        },
+                                        "comments_disabled": false,
+                                        "taken_at_timestamp": 1529391942,
+                                        "dimensions": {
+                                            "height": 662,
+                                            "width": 750
+                                        },
+                                        "display_url": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/34362186_512875379128174_672684856005623808_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=CSk1NIxqhjQAX86brN4&oh=cb1c05e3318859fbf83ea9f16674b3e2&oe=5EB2B7CE",
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "edge_media_preview_like": {
+                                            "count": 2
+                                        },
+                                        "location": null,
+                                        "gating_info": null,
+                                        "fact_check_overall_rating": null,
+                                        "fact_check_information": null,
+                                        "media_preview": "ACol6MuAcEgVHK25CFYA+uaZICWOM9B0x7+oNRAOQeHA/wB5f8KARZgVlQBzk/n+ven+YvqM/WiP7o+gqi7zKTt8vZk43MQffIxjr+lA99SxMS4ARgDn1xn8anUEAAnJxzWejzsQD5ZXIztYkgZHQYrSpCsZt2Z/MAh4yOTjIH6GrEO7aQTnHGR0PH6VIchiecYHbNMwwBxnv298j9OKYyaP7o+gqDfglcA/eP5Hvn+dWEGFA9hUPTjDHk9KBBuyo4AJx396sVVJbcFCnaeST2OelWqAExSYPrRRQAtJg0UUAGDTqKKAP//Z",
+                                        "owner": {
+                                            "id": "7664618792",
+                                            "username": "studia_art_web"
+                                        },
+                                        "thumbnail_src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c38.0.581.581a/34362186_512875379128174_672684856005623808_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=CSk1NIxqhjQAX86brN4&oh=39b5dac59bf3985259dfe4b763ecfb51&oe=5E7413F0",
+                                        "thumbnail_resources": [
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c38.0.581.581a/s150x150/34362186_512875379128174_672684856005623808_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=CSk1NIxqhjQAX86brN4&oh=333f88ec262b43101d8c17165b36523d&oe=5E98923D",
+                                                "config_width": 150,
+                                                "config_height": 150
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c38.0.581.581a/s240x240/34362186_512875379128174_672684856005623808_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=CSk1NIxqhjQAX86brN4&oh=aecf5334743a2d3d89585562d63ff7f9&oe=5E7AEF88",
+                                                "config_width": 240,
+                                                "config_height": 240
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c38.0.581.581a/s320x320/34362186_512875379128174_672684856005623808_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=CSk1NIxqhjQAX86brN4&oh=07dc544e5d1f7fec343e5a3c99b156cb&oe=5E7F2230",
+                                                "config_width": 320,
+                                                "config_height": 320
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c38.0.581.581a/s480x480/34362186_512875379128174_672684856005623808_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=CSk1NIxqhjQAX86brN4&oh=26ff602378ed45af4358dddc14f54283&oe=5E951D6C",
+                                                "config_width": 480,
+                                                "config_height": 480
+                                            },
+                                            {
+                                                "src": "https://instagram.fiev2-1.fna.fbcdn.net/v/t51.2885-15/e35/c38.0.581.581a/34362186_512875379128174_672684856005623808_n.jpg?_nc_ht=instagram.fiev2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=CSk1NIxqhjQAX86brN4&oh=39b5dac59bf3985259dfe4b763ecfb51&oe=5E7413F0",
+                                                "config_width": 640,
+                                                "config_height": 640
+                                            }
+                                        ],
+                                        "is_video": false,
+                                        "accessibility_caption": "No photo description available."
+                                    }
+                                }
+                            ]
+                        },
+                        "edge_saved_media": {
+                            "count": 0,
+                            "page_info": {
+                                "has_next_page": false,
+                                "end_cursor": null
+                            },
+                            "edges": []
+                        },
+                        "edge_media_collections": {
+                            "count": 0,
+                            "page_info": {
+                                "has_next_page": false,
+                                "end_cursor": null
+                            },
+                            "edges": []
+                        }
+                    }
+                },
+                "toast_content_on_load": null
+            }
+        ]
+    },
+    "hostname": "www.instagram.com",
+    "deployment_stage": "c2",
+    "platform": "web",
+    "nonce": "VjwUL/z9bJ9D0FO4gx7qDA==",
+    "mid_pct": 82.16277,
+    "zero_data": {},
+    "cache_schema_version": 3,
+    "server_checks": {},
+    "knobx": {
+        "4": false,
+        "17": false,
+        "20": true,
+        "21": 36,
+        "22": false
+    },
+    "to_cache": {
+        "gatekeepers": {
+            "4": true,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true,
+            "18": true,
+            "19": false,
+            "23": false,
+            "24": false,
+            "26": true,
+            "27": false,
+            "28": false,
+            "29": true,
+            "31": false,
+            "32": true,
+            "34": false,
+            "35": false,
+            "38": true,
+            "40": true,
+            "41": false,
+            "43": false,
+            "59": true,
+            "61": false,
+            "62": false,
+            "63": false,
+            "64": false,
+            "65": false,
+            "67": true,
+            "68": false,
+            "69": true,
+            "71": false,
+            "72": true,
+            "73": false,
+            "74": false,
+            "75": true,
+            "76": false,
+            "77": false,
+            "78": true,
+            "79": false,
+            "80": true,
+            "81": false,
+            "82": false
+        },
+        "qe": {
+            "app_upsell": {
+                "g": "",
+                "p": {}
+            },
+            "igl_app_upsell": {
+                "g": "",
+                "p": {}
+            },
+            "notif": {
+                "g": "",
+                "p": {}
+            },
+            "onetaplogin": {
+                "g": "",
+                "p": {}
+            },
+            "multireg_iter": {
+                "g": "test_11_29",
+                "p": {
+                    "has_prioritized_phone": "true"
+                }
+            },
+            "felix_clear_fb_cookie": {
+                "g": "",
+                "p": {}
+            },
+            "felix_creation_duration_limits": {
+                "g": "",
+                "p": {}
+            },
+            "felix_creation_fb_crossposting": {
+                "g": "",
+                "p": {}
+            },
+            "felix_creation_fb_crossposting_v2": {
+                "g": "",
+                "p": {}
+            },
+            "felix_creation_validation": {
+                "g": "",
+                "p": {}
+            },
+            "mweb_topical_explore": {
+                "g": "",
+                "p": {}
+            },
+            "post_options": {
+                "g": "",
+                "p": {}
+            },
+            "iglscioi": {
+                "g": "",
+                "p": {}
+            },
+            "sticker_tray": {
+                "g": "",
+                "p": {}
+            },
+            "web_sentry": {
+                "g": "",
+                "p": {}
+            },
+            "0": {
+                "p": {
+                    "4": true,
+                    "7": true,
+                    "8": true,
+                    "9": false
+                },
+                "qex": true
+            },
+            "2": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "4": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "5": {
+                "p": {
+                    "1": false
+                },
+                "qex": true
+            },
+            "6": {
+                "p": {
+                    "1": true,
+                    "5": false,
+                    "6": false,
+                    "7": false,
+                    "9": false,
+                    "10": false
+                },
+                "qex": true
+            },
+            "10": {
+                "p": {
+                    "2": false
+                },
+                "qex": true
+            },
+            "12": {
+                "p": {
+                    "0": 5
+                },
+                "qex": true
+            },
+            "13": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "16": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "17": {
+                "p": {
+                    "1": true
+                },
+                "qex": true
+            },
+            "19": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "21": {
+                "p": {
+                    "2": false
+                },
+                "qex": true
+            },
+            "22": {
+                "p": {
+                    "1": false,
+                    "2": 8.0,
+                    "3": 0.85,
+                    "4": 0.95,
+                    "10": 0.0,
+                    "11": 15,
+                    "12": 3,
+                    "13": false
+                },
+                "qex": true
+            },
+            "23": {
+                "p": {
+                    "0": false,
+                    "1": false
+                },
+                "qex": true
+            },
+            "25": {
+                "p": {},
+                "qex": true
+            },
+            "26": {
+                "p": {
+                    "0": ""
+                },
+                "qex": true
+            },
+            "28": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "29": {
+                "p": {},
+                "qex": true
+            },
+            "30": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "31": {
+                "p": {},
+                "qex": true
+            },
+            "33": {
+                "p": {},
+                "qex": true
+            },
+            "34": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "35": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "36": {
+                "p": {
+                    "0": true,
+                    "1": true,
+                    "2": false,
+                    "3": false,
+                    "4": false
+                },
+                "qex": true
+            },
+            "37": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "39": {
+                "p": {
+                    "0": false,
+                    "6": false,
+                    "7": false,
+                    "8": false,
+                    "9": false
+                },
+                "qex": true
+            },
+            "40": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "41": {
+                "p": {
+                    "3": true
+                },
+                "qex": true
+            },
+            "42": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "43": {
+                "p": {
+                    "0": false,
+                    "1": false,
+                    "2": false
+                },
+                "qex": true
+            },
+            "44": {
+                "p": {
+                    "1": "inside_media",
+                    "2": 0.2
+                },
+                "qex": true
+            },
+            "45": {
+                "p": {
+                    "2": true,
+                    "4": 36,
+                    "7": true,
+                    "8": 4,
+                    "12": false,
+                    "13": false,
+                    "14": true,
+                    "15": true,
+                    "16": 36,
+                    "17": 0,
+                    "18": false,
+                    "19": 2,
+                    "22": false,
+                    "23": "control",
+                    "24": false
+                },
+                "qex": true
+            },
+            "46": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "47": {
+                "p": {
+                    "0": true,
+                    "1": true,
+                    "2": false,
+                    "3": false,
+                    "4": false,
+                    "5": false,
+                    "6": false,
+                    "7": false,
+                    "8": false,
+                    "9": false,
+                    "10": false,
+                    "11": false
+                },
+                "qex": true
+            },
+            "48": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "49": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "50": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "53": {
+                "p": {
+                    "0": 5
+                },
+                "qex": true
+            },
+            "54": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "55": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "58": {
+                "p": {
+                    "0": 0.0,
+                    "1": false
+                },
+                "qex": true
+            },
+            "59": {
+                "p": {
+                    "0": true
+                },
+                "qex": true
+            },
+            "60": {
+                "p": {},
+                "qex": true
+            },
+            "62": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "63": {
+                "p": {
+                    "0": 1
+                },
+                "qex": true
+            },
+            "64": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            },
+            "65": {
+                "p": {},
+                "qex": true
+            },
+            "66": {
+                "p": {
+                    "0": false
+                },
+                "qex": true
+            }
+        },
+        "probably_has_app": false,
+        "cb": false
+    },
+    "device_id": "AF3CCEB6-1064-4651-9359-061A08A32A54",
+    "encryption": {
+        "key_id": "245",
+        "public_key": "f5a1fdb4e2e032e5d3b42c3350d69918eebdb640e2f9cc0fe1fc55cd7800cf30"
+    },
+    "rollout_hash": "405d4d4907d4",
+    "bundle_variant": "metro",
+    "is_canary": false
+}

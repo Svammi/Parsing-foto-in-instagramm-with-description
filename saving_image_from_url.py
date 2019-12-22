@@ -39,8 +39,7 @@ def save_image_and_description(json_object_list_items):
         count=count+1
         print(count)
         s = json_object_of_list_image[i]['node']['edge_media_to_caption']['edges'][0]['node']['text']
-        s = re.findall(".*?___",s)[0]
-        f = open(str(count)+'.txt', 'w')
+        f = open(str(count)+'.txt', 'w',encoding="utf-8")
         f.write(s)
         save_image(json_object_of_list_image[i]['node']['thumbnail_resources'][4]['src'],count)
 
